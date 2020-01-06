@@ -1,2 +1,2 @@
 # SecShell
-Python callback to give you a secondary access without having to burn first one of your trojans and backdoors.
+Usually network administrators remove `nc` but have python installed. In those cases, it is useful to create network client and server that you can push files, or have listener that gives you command line access. If you've broken in through a web application, it is definitely worth dropping a python callback to give you secondary access without having to first burn one of your trojans or backdoors.
